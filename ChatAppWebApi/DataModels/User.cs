@@ -11,5 +11,6 @@ namespace ChatAppWebApi.DataModels
         public string Name { get; set; }
         public string Mail { get; set; }
         public bool Gender { get; set; }
+        //ss
     }
 }
